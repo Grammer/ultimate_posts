@@ -1,7 +1,22 @@
 # ODS #wheretostart recommendations
 
 
-There is now way to be taught to be data scientist, but you can learn how to become one yourself. There is no right way, but there is a way, which was adopted by a number of data scientists and it goes through online courses (MOOC). Following suggested order is not required, but might be helpful.
+It is impossible to be taught to be data scientist, but nowadays it is easy to become one yourself. As the amount of resources available online can be overwhelming, we'd like to suggest you the online courses (MOOCs), lectures and materials  that helped us become data scientists. Following suggested order is not required, but might be helpful.
+
+
+## Statistics
+
+## Mathematics
+
+## Data analysis & Data visualization
+
+## Data Science & Machine Learning
+1.Andrew Ng’s Machine Learning (https://www.coursera.org/learn/machine-learning).
+
+## Overall Computer Science skills
+
+
+
 
 Best resources to study Data Science /Machine Learning
 
@@ -18,6 +33,11 @@ Best resources to study Data Science /Machine Learning
 11. Series of #ML lectures from Columbia Universite will be published on youtube. YouTuve Playlist: https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA Syllabus: https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 
 
+
+
+
+
+## Old entries
 Great collections of Data Science learning materials
 
 The list includes free books and online courses on range of DS-related disciplines:
